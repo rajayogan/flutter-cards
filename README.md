@@ -1,8 +1,12 @@
-# flutterui_cards
+# Flutter UI - Cards
 
-A new Flutter project.
+A simple UI screen with cards.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5192926-Social-application-interface-2/attachments/1136009
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+How do I code this ? - https://youtu.be/1hxqVvkIwuw
+
+## Screenshot
+
+![screenshot_20181002-203225](https://user-images.githubusercontent.com/8137504/46357860-6017fb80-c683-11e8-8699-1c38df344687.png)
+
